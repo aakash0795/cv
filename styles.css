@@ -1,0 +1,26 @@
+
+      body{ 
+        background-color:cadetblue;
+   }
+   h1{
+    
+    color: crimson;
+   }
+   h3{
+    
+    color: crimson;
+   }
+  hr {  
+        
+        border-style:none;
+        border-top-style:dotted;
+        border-color:grey;
+        border-width:10px;
+        height:0px;
+        width:100px;
+
+
+  }
+  img{
+        height:250px
+  }
